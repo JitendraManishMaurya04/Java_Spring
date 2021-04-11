@@ -5,7 +5,8 @@ This repository contains basic Java Spring fundamental projects on Spring Databa
 
 Projects:
   * spring-database: 
-    -> Contains basic codes to get data from H2-database
+    -> Database used: H2-Database (In-memory voaltile DB used to test your data access codes before using actual DB)
+    -> Contains basic codes to get data from database.
     -> Contains data access mechanism through Spring JDBC, Spring JPA & Spring-Data-JPA
   
   * spring-aop-using-spring-boot:
