@@ -19,7 +19,7 @@ PROJECTS:
     
   3) myWebApp:
     -> This Project contains basics of handling request-response and rendering JSP pages using both JavaEE-Web_API and Spring MVC technique.
-    -> Created a Login page where user can login and with a basic user validation check.
+    -> Created a Login page where user can login with a basic user validation check.
     -> JavaEE-Web_API Path: /webapp.jee
     -> Spring MVC Path: /webapp.springMVC
     
