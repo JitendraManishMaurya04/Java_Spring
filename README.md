@@ -5,7 +5,7 @@ This repository contains basic Java Spring fundamental projects on Spring Databa
 
 PROJECTS:
 
-  Project 1 --> Spring Databse, 2 --> Spring AOP, 3 --> Spring MVC/JAVAEE-WEB_API
+  Project 1--> Spring Databse, 2--> Spring AOP, 3--> Spring MVC/JAVAEE-WEB_API,  4--> Spring REST
   
   1) spring-database: 
     -> Database used: H2-Database (In-memory volatile DB used to test your data access codes before using actual DB)
@@ -22,6 +22,13 @@ PROJECTS:
     -> Created a Login page where user can login with a basic user validation check.
     -> JavaEE-Web_API Path: /webapp.jee
     -> Spring MVC Path: /webapp.springMVC
+    
+  3) restful-web-services:
+    -> This Project contains basics of creating REST API's.
+    -> The main aim of the project is to Perform CRUD operations on User-Entity and Post-Entity.
+    -> Every User can create, Retrieve, Delete a Post specific to that User.
+    -> The Project also contains usage of Validation on Fields, Generic Exception Handling, Internalionalization, Actuators and HAL.
+    -> Filtering and Internalionalization is present inside filteringBeanAttribute and helloWorld package respectively.
     
   
   
